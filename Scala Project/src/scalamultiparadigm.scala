@@ -5,3 +5,4 @@ object Main {
    println("Scala is Multi-paradigm")
  }
 }
+
