@@ -1,5 +1,3 @@
-
-
 object Recursive extends App {
     val listOfNumbers = List.range(1, 1000000)
     
